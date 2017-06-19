@@ -1,0 +1,22 @@
+{
+    "name": "birds-of-paradise",
+    "displayName": "Birds of Paradise",
+    "description": "Birds of Paradise theme is a modified Birds of Paradise VSCode theme",
+    "version": "0.0.1",
+    "publisher": "jBugman",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Birds of Paradise",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Birds_of_Paradise-color-theme.json"
+            }
+        ]
+    }
+}
